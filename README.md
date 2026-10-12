@@ -1,16 +1,24 @@
-# Introduction to Git
+# Stack Overflow - 程式錯誤方塊遊戲
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+這個應用程式是一款結合程式設計主題的方塊消除遊戲。
 
-Hey Vivien-Yin-pa!
+玩家需要將不同的錯誤模式與目標圖樣對齊，並在堆疊過高前修正問題，避免程式出現「Stack Overflow」的致命錯誤。
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## 遊戲特色
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- 以開發者常見錯誤為主題，例如 Null Pointer、Memory Leak、Syntax Error
+- 透過方塊消除機制完成錯誤修正
+- 以簡潔的操作方式提供輕鬆的休閒挑戰
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Vivien-Yin-pa/skills-introduction-to-git/issues/1)
+## 操作方式
+
+- 左右鍵：移動
+- 上鍵：旋轉
+- 下鍵：快速下落
+- 空白鍵：直接落下
+- P：暫停
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+這個專案提供一個輕鬆有趣的程式主題遊戲體驗，適合用來練習前端互動與遊戲邏輯。
 
